@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>Icon / Menu / Tech / Layers</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icon-/-Menu-/-Tech-/-Layers" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-Copy-10" fill="#FFFFFF" x="0" y="0" width="36" height="36" rx="4"></rect>
+        <rect id="Rectangle" fill="#A7A7A7" x="7" y="7" width="16" height="22" rx="2"></rect>
+        <rect id="Rectangle-Copy" fill="#A7A7A7" x="10" y="8" width="16" height="20" rx="2"></rect>
+        <rect id="Rectangle-Copy-3" fill="#A7A7A7" x="13" y="9" width="16" height="18" rx="2"></rect>
+        <rect id="Rectangle" fill="#FFFFFF" x="8" y="8" width="14" height="20" rx="2"></rect>
+        <path d="M23,9 C24.1045695,9 25,9.8954305 25,11 L25,25 C25,26.1045695 24.1045695,27 23,27 L23,27 L23,27 L23,9 Z" id="Rectangle-Copy-2" fill="#FFFFFF"></path>
+        <rect id="Rectangle" fill="#FFFFFF" x="23" y="8" width="1" height="20"></rect>
+        <rect id="Rectangle-Copy-5" fill="#FFFFFF" x="26" y="8" width="1" height="20"></rect>
+        <path d="M27,10 C27.5522847,10 28,10.4477153 28,11 L28,25 C28,25.5522847 27.5522847,26 27,26 L27,26 L27,26 L27,10 Z" id="Rectangle-Copy-4" fill="#FFFFFF"></path>
+    </g>
+</svg>
